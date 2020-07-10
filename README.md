@@ -1,4 +1,4 @@
-# 350S20-36
+# Penn Lost and Found
 Adi Bhati, Kevin Chen, Max Du, Jeffrey Qu
 
 ## Android App
@@ -9,11 +9,3 @@ All of the components for our admin webapp. The webapp tracks user activity. Ini
 
 ## Running Instructions
 First install all node dependencies with `npm install`. Then, start node server using `node index.js`. Android app can be found in AndroidApp folder and run using an emulator. The admin webapp is found in AdminLTE-master folder and can be run by first opening index.html.
-
-## mongoDB notes
-MongoDb Atlas account for us with the login
-
-email: pennlostfound@gmail.com
-password: ilovelukeyeagley
-
-After logging in, then connect to the existing cluster.
